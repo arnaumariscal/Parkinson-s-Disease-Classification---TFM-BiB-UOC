@@ -26,8 +26,8 @@ El análisis SHAP confirmó que ambos grupos de características acústicas tuvi
 ## 📂 Estructura del repositorio:
 
 ```bash
-├── Datos/
-├── Results/
+├── datos/
+├── resultados/
 ├── Parkinson's Disease Classification.ipynb
 ├── Parkinson's Disease Classification.pdf  #código ejecutado
 ├── requirements.txt
